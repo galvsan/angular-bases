@@ -14,7 +14,7 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     CounterModule,
-    HeroesModule
+    HeroesModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
